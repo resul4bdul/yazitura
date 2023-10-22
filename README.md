@@ -1,4 +1,5 @@
-#yazitura
+# python ile yazitura turkce
+
 Python ile basit yazı-tura oyunu.
 ENTER düğmesini bastıktan sonra yazı ve ya tura olduğunu sesli şekilde söyleyen python uygulaması.
 
@@ -11,6 +12,7 @@ ENTER düğmesini bastıktan sonra yazı ve ya tura olduğunu sesli şekilde sö
 Linux kullanıcıları için `sudo mv yazitura.py /usr/local/bin/yazitura` komutunu kullandıktan 
 sonra terminale `yazitura` yazdığınızda python dosyamız çalışıcaktır.
 
+# Coin Toss game with python - English
 
 Simple coin toss game with Python.
 Python application that speaks out whether it is heads or tails after you press the ENTER button.
