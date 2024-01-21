@@ -14,7 +14,7 @@ def cavabi_sesli_soyle(cavab):
     os.system("mpg123 cavab.mp3")  
 
 if __name__ == "__main__":
-    input("Yazı-tura atmağ üçün 'ENTER' düyməsinə basın...")
+    input("Yazı-tura atmak için Enter düğmesini tıklayın...")
     cavab = yazı_tura_çevir()
     cavabi_sesli_soyle(cavab)
 
